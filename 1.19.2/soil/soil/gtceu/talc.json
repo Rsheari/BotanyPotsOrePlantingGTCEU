@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_talc_block"
+    },
+    "display": {
+      "block": "gtceu:raw_talc_block"
+    },
+    "categories": [
+      "talc"
+    ],
+    "growthModifier": 1
+  }

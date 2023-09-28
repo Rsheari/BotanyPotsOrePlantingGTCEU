@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:oilvine_block"
+    },
+    "display": {
+      "block": "gtceu:oilvine_block"
+    },
+    "categories": [
+      "oilvine"
+    ],
+    "growthModifier": 1
+  }

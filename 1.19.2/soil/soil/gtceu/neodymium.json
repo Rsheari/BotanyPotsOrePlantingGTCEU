@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:neodymium_block"
+    },
+    "display": {
+      "block": "gtceu:neodymium_block"
+    },
+    "categories": [
+      "neodymium"
+    ],
+    "growthModifier": 1
+  }

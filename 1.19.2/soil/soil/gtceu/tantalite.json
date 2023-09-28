@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_tantalite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_tantalite_block"
+    },
+    "categories": [
+      "tantalite"
+    ],
+    "growthModifier": 1
+  }

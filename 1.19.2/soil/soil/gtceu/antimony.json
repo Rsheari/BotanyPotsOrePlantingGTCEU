@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:antimony_block"
+    },
+    "display": {
+      "block": "gtceu:antimony_block"
+    },
+    "categories": [
+      "antimony"
+    ],
+    "growthModifier": 1
+  }

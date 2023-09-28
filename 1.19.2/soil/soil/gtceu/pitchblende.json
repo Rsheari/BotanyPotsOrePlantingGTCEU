@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_pitchblende_block"
+    },
+    "display": {
+      "block": "gtceu:raw_pitchblende_block"
+    },
+    "categories": [
+      "pitchblende"
+    ],
+    "growthModifier": 1
+  }

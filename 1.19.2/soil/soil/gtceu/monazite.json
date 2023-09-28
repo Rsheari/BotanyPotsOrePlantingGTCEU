@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:monazite_block"
+    },
+    "display": {
+      "block": "gtceu:monazite_block"
+    },
+    "categories": [
+      "monazite"
+    ],
+    "growthModifier": 1
+  }

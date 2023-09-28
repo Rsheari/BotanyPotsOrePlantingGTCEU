@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:aluminium_block"
+    },
+    "display": {
+      "block": "gtceu:aluminium_block"
+    },
+    "categories": [
+      "aluminium"
+    ],
+    "growthModifier": 1
+  }

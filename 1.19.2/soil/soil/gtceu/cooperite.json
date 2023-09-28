@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_cooperite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_cooperite_block"
+    },
+    "categories": [
+      "cooperite"
+    ],
+    "growthModifier": 1
+  }

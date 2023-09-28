@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_pyrocholre_block"
+    },
+    "display": {
+      "block": "gtceu:raw_pyrocholre_block"
+    },
+    "categories": [
+      "pyrocholre"
+    ],
+    "growthModifier": 1
+  }

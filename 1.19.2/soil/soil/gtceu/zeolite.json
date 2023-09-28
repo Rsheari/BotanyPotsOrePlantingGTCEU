@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_zeolite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_zeolite_block"
+    },
+    "categories": [
+      "zeolite"
+    ],
+    "growthModifier": 1
+  }

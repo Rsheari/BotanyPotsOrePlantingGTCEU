@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item":  "gtceu:raw_lithium_block"
+    },
+    "display": {
+      "block": "gtceu:raw_lithium_block"
+    },
+    "categories": [
+      "lithium"
+    ],
+    "growthModifier": 1
+  }

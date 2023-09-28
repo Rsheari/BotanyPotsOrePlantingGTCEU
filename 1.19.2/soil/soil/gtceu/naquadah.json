@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:naquadah_block"
+    },
+    "display": {
+      "block": "gtceu:naquadah_block"
+    },
+    "categories": [
+      "naquadah"
+    ],
+    "growthModifier": 1
+  }
