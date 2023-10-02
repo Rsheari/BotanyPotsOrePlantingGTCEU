@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:sulfur_dust"
+    },
+    "categories": [
+      "sulfur"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:sulfur_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_sulfur"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

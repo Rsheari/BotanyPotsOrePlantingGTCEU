@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:spodumene_dust"
+    },
+    "categories": [
+      "spodumene"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:spodumene_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_spodumene"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

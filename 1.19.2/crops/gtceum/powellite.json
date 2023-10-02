@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:powellite_dust"
+    },
+    "categories": [
+      "powellite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:powellite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_powellite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

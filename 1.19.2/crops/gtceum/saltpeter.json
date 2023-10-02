@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:saltpeter_dust"
+    },
+    "categories": [
+      "saltpeter"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:saltpeter_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_saltpeter"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

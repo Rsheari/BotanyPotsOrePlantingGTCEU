@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:stibnite_dust"
+    },
+    "categories": [
+      "antimony"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:stibnite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_stibnite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }
