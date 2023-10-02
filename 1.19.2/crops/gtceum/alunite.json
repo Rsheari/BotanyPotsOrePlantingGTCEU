@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:alunite_dust"
+    },
+    "categories": [
+      "alunite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:alunite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_alunite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

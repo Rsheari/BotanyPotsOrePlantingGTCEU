@@ -1,0 +1,24 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:magnetic_iron_ingot"
+    },
+    "categories": [
+      "mangetite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:magnetite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_magnetite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }
+  

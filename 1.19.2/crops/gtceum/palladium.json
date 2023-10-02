@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:palladium_ingot"
+    },
+    "categories": [
+      "palladium"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:palladium_block"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_palladium"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

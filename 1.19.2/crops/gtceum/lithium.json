@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:lithium_dust"
+    },
+    "categories": [
+      "lithium"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:lithium_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_lithium"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

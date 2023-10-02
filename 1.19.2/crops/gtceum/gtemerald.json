@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:emerald_flawless_gem"
+    },
+    "categories": [
+      "emerald"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:emerald_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_emerald"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

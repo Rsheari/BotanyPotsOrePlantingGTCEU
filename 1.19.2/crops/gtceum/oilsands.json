@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:oilsands_dust"
+    },
+    "categories": [
+      "oilsands"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:oilsands_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_oilsands"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

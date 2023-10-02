@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:asbestos_dust"
+    },
+    "categories": [
+      "asbestos"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:asbestos_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_asbestos"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

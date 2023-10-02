@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:fullers_earth_dust"
+    },
+    "categories": [
+      "fullers_earth"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:fullers_earth_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_fullers_earth"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

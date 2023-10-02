@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:cooperite_dust"
+    },
+    "categories": [
+      "cooperite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:cooperite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_cooperite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }
