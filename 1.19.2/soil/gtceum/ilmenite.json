@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:wrought_iron_block"
+    },
+    "display": {
+      "block": "gtceu:wrought_iron_block"
+    },
+    "categories": [
+      "ilmenite"
+    ],
+    "growthModifier": 1
+  }

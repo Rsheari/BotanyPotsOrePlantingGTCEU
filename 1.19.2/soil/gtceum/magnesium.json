@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_magnesite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_magnesite_block"
+    },
+    "categories": [
+      "magnesite"
+    ],
+    "growthModifier": 1
+  }

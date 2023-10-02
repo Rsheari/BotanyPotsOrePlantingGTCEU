@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_calcite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_calcite_block"
+    },
+    "categories": [
+      "calcite"
+    ],
+    "growthModifier": 1
+  }

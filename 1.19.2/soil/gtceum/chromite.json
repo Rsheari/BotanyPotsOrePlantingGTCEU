@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_chromite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_chromite_block"
+    },
+    "categories": [
+      "chromite"
+    ],
+    "growthModifier": 1
+  }

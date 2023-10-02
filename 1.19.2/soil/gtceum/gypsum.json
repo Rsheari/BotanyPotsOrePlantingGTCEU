@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_gypsum_block"
+    },
+    "display": {
+      "block": "gtceu:raw_gypsum_block"
+    },
+    "categories": [
+      "gypsum"
+    ],
+    "growthModifier": 1
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_fullers_earth_block"
+    },
+    "display": {
+      "block": "gtceu:raw_fullers_earth_block"
+    },
+    "categories": [
+      "fullers_earth"
+    ],
+    "growthModifier": 1
+  }

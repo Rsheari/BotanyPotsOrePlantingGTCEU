@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:malachite_block"
+    },
+    "display": {
+      "block": "gtceu:malachite_block"
+    },
+    "categories": [
+      "malachite"
+    ],
+    "growthModifier": 1
+  }

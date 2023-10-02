@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_soapstone_block"
+    },
+    "display": {
+      "block": "gtceu:raw_soapstone_block"
+    },
+    "categories": [
+      "soapstone"
+    ],
+    "growthModifier": 1
+  }

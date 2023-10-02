@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_oilsands_block"
+    },
+    "display": {
+      "block": "gtceu:raw_oilsands_block"
+    },
+    "categories": [
+      "oilsands"
+    ],
+    "growthModifier": 1
+  }
