@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:uraninite_dust"
+    },
+    "categories": [
+      "uraninite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:uraninite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_uraninite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

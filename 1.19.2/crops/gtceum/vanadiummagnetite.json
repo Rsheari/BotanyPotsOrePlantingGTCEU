@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:vanadium_magnetite_dust"
+    },
+    "categories": [
+      "vanadium_magnetite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:vanadium_magnetite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_vanadium_magnetite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

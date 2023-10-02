@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:zeolite_dust"
+    },
+    "categories": [
+      "zeolite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:zeolite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_zeolite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }
