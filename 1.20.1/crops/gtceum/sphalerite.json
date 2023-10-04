@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:sphalerite_dust"
+    },
+    "categories": [
+      "zinc"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:sphalerite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_sphalerite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

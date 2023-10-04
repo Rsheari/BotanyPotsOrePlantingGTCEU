@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:diamond_flawless_gem"
+    },
+    "categories": [
+      "diamond"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:diamond_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_diamond"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

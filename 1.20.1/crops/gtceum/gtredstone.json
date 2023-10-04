@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:red_alloy_ingot"
+    },
+    "categories": [
+      "redstone"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:redstone_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_redstone"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

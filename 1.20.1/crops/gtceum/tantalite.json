@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:tantalite_dust"
+    },
+    "categories": [
+      "tantalite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:tantalite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_tantalite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

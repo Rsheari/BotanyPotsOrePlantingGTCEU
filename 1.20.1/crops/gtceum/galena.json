@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:galena_dust"
+    },
+    "categories": [
+      "lead"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:galena_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_galena"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

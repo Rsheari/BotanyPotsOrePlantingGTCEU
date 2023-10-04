@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:coal_flawless_gem"
+    },
+    "categories": [
+      "coal"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:coal_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_coal"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

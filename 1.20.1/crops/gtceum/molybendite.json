@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:molybdenite_dust"
+    },
+    "categories": [
+      "molybdenum"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:molybdenite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_molybdenite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

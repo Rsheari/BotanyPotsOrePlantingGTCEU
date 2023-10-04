@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:graphite_dust"
+    },
+    "categories": [
+      "graphite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:graphite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_graphite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

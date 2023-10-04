@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:chalcocite_dust"
+    },
+    "categories": [
+      "copper"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:chalcocite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_chalcocite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

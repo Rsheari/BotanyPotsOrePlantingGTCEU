@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:granitic_mineral_sand_dust"
+    },
+    "categories": [
+      "iron"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:granitic_mineral_sand_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_granitic_mineral_sand"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

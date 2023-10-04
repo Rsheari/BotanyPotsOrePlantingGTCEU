@@ -1,0 +1,24 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:malachite_gem"
+    },
+    "categories": [
+      "copper",
+      "malachite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:malachite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_malachite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

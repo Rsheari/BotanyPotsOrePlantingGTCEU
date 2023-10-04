@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:magnesite_dust"
+    },
+    "categories": [
+      "magnesite"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:magnesite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_magnesite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }
