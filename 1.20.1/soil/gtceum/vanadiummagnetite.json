@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_vanadium_magnetite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_vanadium_magnetite_block"
+    },
+    "categories": [
+      "vanadium_magnetite"
+    ],
+    "growthModifier": 1
+  }

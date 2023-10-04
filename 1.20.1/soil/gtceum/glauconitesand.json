@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_glauconite_sand_block"
+    },
+    "display": {
+      "block": "gtceu:raw_glauconite_sand_block"
+    },
+    "categories": [
+      "glauconite_sand"
+    ],
+    "growthModifier": 1
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_sulfur_block"
+    },
+    "display": {
+      "block": "gtceu:raw_sulfur_block"
+    },
+    "categories": [
+      "sulfur"
+    ],
+    "growthModifier": 1
+  }

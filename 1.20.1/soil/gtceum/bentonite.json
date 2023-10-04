@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_bentonite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_bentonite_block"
+    },
+    "categories": [
+      "bentonite"
+    ],
+    "growthModifier": 1
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_bastnasite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_bastnasite_block"
+    },
+    "categories": [
+      "bastnasite"
+    ],
+    "growthModifier": 1
+  }

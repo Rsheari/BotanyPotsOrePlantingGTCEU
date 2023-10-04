@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_tricalcium_phosphate_block"
+    },
+    "display": {
+      "block": "gtceu:raw_tricalcium_phosphate_block"
+    },
+    "categories": [
+      "tricalciumphosphate"
+    ],
+    "growthModifier": 1
+  }

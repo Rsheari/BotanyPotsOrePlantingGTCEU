@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_tetrahedrite_block"
+    },
+    "display": {
+      "block": "gtceu:raw_tetrahedrite_block"
+    },
+    "categories": [
+      "tetrahedrite"
+    ],
+    "growthModifier": 1
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "botanypots:soil",
+    "input": {
+      "item": "gtceu:raw_spodumene_block"
+    },
+    "display": {
+      "block": "gtceu:raw_spodumene_block"
+    },
+    "categories": [
+      "spodumene"
+    ],
+    "growthModifier": 1
+  }
