@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:tungstate_dust"
+    },
+    "categories": [
+      "tungstate"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:tungstate_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_tungstate"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

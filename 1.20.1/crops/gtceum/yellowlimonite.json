@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:yellow_limonite_dust"
+    },
+    "categories": [
+      "iron"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:yellow_limonite_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_yellow_limonite"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }

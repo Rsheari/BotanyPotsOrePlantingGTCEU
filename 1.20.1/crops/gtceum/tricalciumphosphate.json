@@ -1,0 +1,23 @@
+{
+    "type": "botanypots:crop",
+    "seed": {
+      "item": "gtceu:tricalcium_phosphate_dust"
+    },
+    "categories": [
+      "tricalciumphosphate"
+    ],
+    "growthTicks": 1200,
+    "display": {
+      "block": "gtceu:tricalcium_phosphate_ore"
+    },
+    "drops": [
+      {
+        "chance": 1.00,
+        "output": {
+          "item": "gtceu:raw_tricalcium_phosphate"
+        },
+        "minRolls": 2,
+        "maxRolls": 3
+      }
+    ]
+  }
