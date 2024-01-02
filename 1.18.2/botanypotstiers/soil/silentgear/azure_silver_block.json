@@ -1,13 +1,13 @@
 {
   "type": "botanypotstiers:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "silentgear:azure_silver_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "silentgear:azure_silver_block"
   },
   "categories": [
-    "aluminum"
+    "azure_silver"
   ],
   "growthModifier": 1
 }

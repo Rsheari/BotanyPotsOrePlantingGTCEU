@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "silentgear:bort_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "silentgear:bort_block"
   },
   "categories": [
-    "aluminum"
+    "bort"
   ],
   "growthModifier": 1
 }
