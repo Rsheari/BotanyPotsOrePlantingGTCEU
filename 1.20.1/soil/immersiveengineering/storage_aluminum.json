@@ -1,10 +1,10 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "immersiveengineering:storage_aluminum"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "immersiveengineering:storage_aluminum"
   },
   "categories": [
     "aluminum"

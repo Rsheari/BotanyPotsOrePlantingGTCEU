@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "immersiveengineering:storage_nickel"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "immersiveengineering:storage_nickel"
   },
   "categories": [
-    "aluminum"
+    "nickel"
   ],
   "growthModifier": 1
 }

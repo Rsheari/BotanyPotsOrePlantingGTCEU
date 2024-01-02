@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "mekanism:block_fluorite"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "mekanism:block_fluorite"
   },
   "categories": [
-    "aluminum"
+    "fluorite"
   ],
   "growthModifier": 1
 }

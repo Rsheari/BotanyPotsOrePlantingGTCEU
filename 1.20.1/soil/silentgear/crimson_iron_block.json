@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "silentgear:crimson_iron_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "silentgear:crimson_iron_block"
   },
   "categories": [
-    "aluminum"
+    "crimson_iron"
   ],
   "growthModifier": 1
 }

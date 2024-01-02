@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "mekanism:block_uranium"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "mekanism:block_uranium"
   },
   "categories": [
-    "aluminum"
+    "uranium"
   ],
   "growthModifier": 1
 }
