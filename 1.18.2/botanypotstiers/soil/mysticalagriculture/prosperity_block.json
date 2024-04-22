@@ -1,13 +1,13 @@
 {
   "type": "botanypotstiers:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "mysticalagriculture:prosperity_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "mysticalagriculture:prosperity_block"
   },
   "categories": [
-    "aluminum"
+    "prosperity"
   ],
   "growthModifier": 1
 }

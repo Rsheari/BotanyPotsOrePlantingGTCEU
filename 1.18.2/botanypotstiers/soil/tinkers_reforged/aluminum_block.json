@@ -1,10 +1,10 @@
 {
   "type": "botanypotstiers:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "tinkers_reforged:aluminum_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "tinkers_reforged:aluminum_block"
   },
   "categories": [
     "aluminum"

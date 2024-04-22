@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "allthemodium:allthemodium_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "allthemodium:allthemodium_block"
   },
   "categories": [
-    "aluminum"
+    "allthemodium"
   ],
   "growthModifier": 1
 }

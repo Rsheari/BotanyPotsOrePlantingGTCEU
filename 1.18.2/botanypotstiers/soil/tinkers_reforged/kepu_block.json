@@ -1,13 +1,13 @@
 {
   "type": "botanypotstiers:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "tinkers_reforged:kepu_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "tinkers_reforged:kepu_block"
   },
   "categories": [
-    "aluminum"
+    "kepu"
   ],
   "growthModifier": 1
 }

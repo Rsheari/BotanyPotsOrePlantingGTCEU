@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "mysticalagriculture:inferium_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "mysticalagriculture:inferium_block"
   },
   "categories": [
-    "aluminum"
+    "inferium"
   ],
   "growthModifier": 1
 }

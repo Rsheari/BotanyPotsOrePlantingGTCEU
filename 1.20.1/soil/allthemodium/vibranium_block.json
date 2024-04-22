@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "allthemodium:vibranium_block"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "allthemodium:vibranium_block"
   },
   "categories": [
-    "aluminum"
+    "vibranium"
   ],
   "growthModifier": 1
 }

@@ -1,13 +1,13 @@
 {
   "type": "botanypots:soil",
   "input": {
-    "item": "alltheores:aluminum_block"
+    "item": "mekanism:block_osmium"
   },
   "display": {
-    "block": "alltheores:aluminum_block"
+    "block": "mekanism:block_osmium"
   },
   "categories": [
-    "aluminum"
+    "osmium"
   ],
   "growthModifier": 1
 }
